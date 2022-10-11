@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/layout_activity_register.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/layout/activity_register.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-hdpi_bg_blue.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-hdpi/bg_blue.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-mdpi_bg_blue.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-mdpi/bg_blue.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable_icon_logout.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable/icon_logout.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "polinema.ac.id.dtsapp-pngs-4:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/font_montserrat_semi_bold.otf.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/font/montserrat_semi_bold.otf"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-mdpi_ic_eventlist.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-mdpi/ic_eventlist.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxxhdpi_bg_purple.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxxhdpi/bg_purple.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxxhdpi_bg_red.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxxhdpi/bg_red.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxxhdpi_ic_logo.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "polinema.ac.id.dtsapp-pngs-4:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxhdpi_bg_red.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxhdpi/bg_red.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-hdpi_ic_assign.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-hdpi/ic_assign.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/layout_activity_success.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/layout/activity_success.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xhdpi_bg_red.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xhdpi/bg_red.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-hdpi_ic_succesfull_logo.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-hdpi/ic_succesfull_logo.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/font_montserrat_thin.otf.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/font/montserrat_thin.otf"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable_button_red.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable/button_red.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxhdpi_bg_purple.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxhdpi/bg_purple.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xhdpi_bg_purple.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xhdpi/bg_purple.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/layout_activity_welcome_slide.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/layout/activity_welcome_slide.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxhdpi_ic_assign.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxhdpi/ic_assign.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-hdpi_bg_purple.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-hdpi/bg_purple.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable_button_white.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable/button_white.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "polinema.ac.id.dtsapp-pngs-4:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxhdpi_bg_blue.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxhdpi/bg_blue.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxxhdpi_ic_superhero.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxxhdpi/ic_superhero.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-mdpi_ic_assign.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-mdpi/ic_assign.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "polinema.ac.id.dtsapp-pngs-4:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "polinema.ac.id.dtsapp-pngs-4:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "polinema.ac.id.dtsapp-pngs-4:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "polinema.ac.id.dtsapp-pngs-4:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xhdpi_bg_blue.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xhdpi/bg_blue.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxxhdpi_ic_succesfull_logo.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxxhdpi/ic_succesfull_logo.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-hdpi_ic_superhero.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-hdpi/ic_superhero.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xhdpi_ic_logo.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xhdpi/ic_logo.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/layout_activity_home.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/layout/activity_home.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/layout_activity_welcome_slide_assign.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/layout/activity_welcome_slide_assign.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/layout_activity_welcome_back.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/layout/activity_welcome_back.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xhdpi_ic_superhero.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xhdpi/ic_superhero.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xhdpi_ic_succesfull_logo.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xhdpi/ic_succesfull_logo.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-mdpi_ic_succesfull_logo.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-mdpi/ic_succesfull_logo.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/layout_activity_welcome_slide_superhero.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/layout/activity_welcome_slide_superhero.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxxhdpi_ic_eventlist.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxxhdpi/ic_eventlist.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxhdpi_ic_succesfull_logo.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxhdpi/ic_succesfull_logo.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable_icon_profile.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable/icon_profile.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxhdpi_ic_logo.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxxhdpi_bg_blue.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxxhdpi/bg_blue.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xhdpi_ic_eventlist.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xhdpi/ic_eventlist.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-mdpi_ic_logo.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-mdpi/ic_logo.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "polinema.ac.id.dtsapp-pngs-4:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-hdpi_ic_eventlist.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-hdpi/ic_eventlist.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxxhdpi_ic_assign.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxxhdpi/ic_assign.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxhdpi_ic_eventlist.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxhdpi/ic_eventlist.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-hdpi_ic_logo.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-hdpi/ic_logo.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/layout/activity_main.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xxhdpi_ic_superhero.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xxhdpi/ic_superhero.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/layout_activity_profile.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/layout_activity_forgot_password.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-xhdpi_ic_assign.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-xhdpi/ic_assign.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-hdpi_bg_red.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-hdpi/bg_red.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-mdpi_bg_purple.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-mdpi/bg_purple.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable_button_gray.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable/button_gray.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/font_montserrat_light.otf.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/font/montserrat_light.otf"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/layout_activity_reset_password.xml.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/layout/activity_reset_password.xml"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-mdpi_ic_superhero.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-mdpi/ic_superhero.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/drawable-mdpi_bg_red.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/drawable-mdpi/bg_red.png"
+    },
+    {
+        "merged": "polinema.ac.id.dtsapp-merged_res-9:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "polinema.ac.id.dtsapp-main-11:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
