@@ -4,7 +4,86 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f495e9e6-9cd5-4b8c-9a52-2e04f9e49087" name="Changes" comment="" />
+    <list default="true" id="f495e9e6-9cd5-4b8c-9a52-2e04f9e49087" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/DTSApp_Praktikum_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/DTSApp_Praktikum_5.app.androidTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/DTSApp_Praktikum_5.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/DTSApp_Praktikum_5.app.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/DTSApp_Praktikum_5.app.unitTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_1707b46770086a3176cd54e32a45709753c922d685c01f5f8728c4545c61d35a_bucket_0/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_1707b46770086a3176cd54e32a45709753c922d685c01f5f8728c4545c61d35a_bucket_1/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_1707b46770086a3176cd54e32a45709753c922d685c01f5f8728c4545c61d35a_bucket_2/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_1707b46770086a3176cd54e32a45709753c922d685c01f5f8728c4545c61d35a_bucket_3/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/RegisterActivity$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/RegisterActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/RegisterActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/RegisterActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/WelcomeBackActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/WelcomeBackActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/data/AppDbProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/data/AppDbProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/data/DatabaseTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/data/DatabaseTaskEventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/RegisterActivity$1$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/RegisterActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/RegisterActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/RegisterActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/WelcomeBackActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/WelcomeBackActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/data/AppDbProvider.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/data/AppDbProvider.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/data/DatabaseTask.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/data/DatabaseTaskEventListener.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/source_set_path_map/debug/file-map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/source_set_path_map/debug/file-map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/polinema/ac/id/dtsapp/RegisterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/polinema/ac/id/dtsapp/RegisterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/polinema/ac/id/dtsapp/WelcomeBackActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/polinema/ac/id/dtsapp/WelcomeBackActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/polinema/ac/id/dtsapp/data/AppDbProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/polinema/ac/id/dtsapp/data/AppDbProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/polinema/ac/id/dtsapp/data/DatabaseTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/polinema/ac/id/dtsapp/data/DatabaseTaskEventListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/RegisterActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/RegisterActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/WelcomeBackActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/WelcomeBackActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/data/AppDbProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/javac/debug/classes/polinema/ac/id/dtsapp/data/AppDbProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/RegisterActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/RegisterActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/WelcomeBackActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/WelcomeBackActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/data/AppDbProvider.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/intermediates/project_dex_archive/debug/out/polinema/ac/id/dtsapp/data/AppDbProvider.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/src/main/java/polinema/ac/id/dtsapp/RegisterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/src/main/java/polinema/ac/id/dtsapp/RegisterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/src/main/java/polinema/ac/id/dtsapp/WelcomeBackActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/src/main/java/polinema/ac/id/dtsapp/WelcomeBackActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/src/main/java/polinema/ac/id/dtsapp/data/AppDbProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DTSApp Praktikum 6/app/src/main/java/polinema/ac/id/dtsapp/data/AppDbProvider.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +103,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2Fy05fPdwlnZd9mdKDjmBuxsYAG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,12 +118,12 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DTSApp Praktikum 6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DTSApp Praktikum 1" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="DTSApp_Praktikum_5.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -96,6 +178,19 @@
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DTSApp_Praktikum_6.app.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DTSApp_Praktikum_6.app.main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>

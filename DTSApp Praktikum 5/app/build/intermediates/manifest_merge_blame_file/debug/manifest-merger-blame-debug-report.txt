@@ -6,70 +6,70 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml
+8-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml
+9-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:5:5-29:19
+11-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:5:5-29:19
 12        android:allowBackup="true"
-12-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:6:9-35
+12-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
 13-->[com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\9e531ed48fff4ec0bab341ce146590e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:7:9-43
+15-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:8:9-41
+16-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:9:9-54
+17-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:10:9-35
+18-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
-20-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:11:9-40
+20-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:11:9-40
 21        <activity android:name="polinema.ac.id.dtsapp.ProfileActivity" />
-21-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:12:9-62
-21-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:12:19-50
+21-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:12:9-62
+21-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:12:19-50
 22        <activity android:name="polinema.ac.id.dtsapp.HomeActivity" />
-22-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:13:9-50
-22-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:13:19-47
+22-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:13:9-50
+22-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:13:19-47
 23        <activity android:name="polinema.ac.id.dtsapp.RegisterActivity" />
-23-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:14:9-54
-23-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:14:19-51
+23-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:14:9-54
+23-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:14:19-51
 24        <activity android:name="polinema.ac.id.dtsapp.SuccessActivity" />
-24-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:15:9-53
-24-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:15:19-50
+24-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:15:9-53
+24-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:15:19-50
 25        <activity android:name="polinema.ac.id.dtsapp.ResetPasswordActivity" />
-25-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:16:9-59
-25-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:16:19-56
+25-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:16:9-59
+25-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:16:19-56
 26        <activity android:name="polinema.ac.id.dtsapp.ForgotPasswordActivity" />
-26-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:17:9-60
-26-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:17:19-57
+26-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:17:9-60
+26-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:17:19-57
 27        <activity android:name="polinema.ac.id.dtsapp.WelcomeBackActivity" />
-27-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:18:9-57
-27-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:18:19-54
+27-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:18:9-57
+27-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:18:19-54
 28        <activity android:name="polinema.ac.id.dtsapp.WelcomeSlideAssignActivity" />
-28-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:19:9-64
-28-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:19:19-61
+28-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:19:9-64
+28-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:19:19-61
 29        <activity android:name="polinema.ac.id.dtsapp.WelcomeSlideSuperheroActivity" />
-29-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:20:9-67
-29-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:20:19-64
+29-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:20:9-67
+29-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:20:19-64
 30        <activity android:name="polinema.ac.id.dtsapp.WelcomeSlideCalendarActivity" />
-30-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:21:9-66
-30-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:21:19-63
+30-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:21:9-66
+30-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:21:19-63
 31        <activity android:name="polinema.ac.id.dtsapp.MainActivity" >
-31-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:22:9-28:20
-31-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:22:19-47
+31-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:22:9-28:20
+31-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:22:19-47
 32            <intent-filter>
-32-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:23:13-27:29
+32-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:23:13-27:29
 33                <action android:name="android.intent.action.MAIN" />
-33-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:24:17-69
-33-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:24:25-66
+33-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:24:17-69
+33-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:24:25-66
 34
 35                <category android:name="android.intent.category.LAUNCHER" />
-35-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:26:17-77
-35-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 5\app\src\main\AndroidManifest.xml:26:27-74
+35-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:26:17-77
+35-->E:\Polinema Alif\Semester 5\Mobile\09 Shared Preferences\Code\DTSApp Praktikum 6\app\src\main\AndroidManifest.xml:26:27-74
 36            </intent-filter>
 37        </activity>
 38    </application>
