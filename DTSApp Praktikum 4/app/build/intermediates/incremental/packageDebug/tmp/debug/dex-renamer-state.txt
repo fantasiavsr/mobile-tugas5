@@ -1,0 +1,4 @@
+#Tue Oct 11 08:39:38 ICT 2022
+base.0=E\:\\Polinema Alif\\Semester 5\\Mobile\\09 Shared Preferences\\Code\\DTSApp Praktikum 4\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
