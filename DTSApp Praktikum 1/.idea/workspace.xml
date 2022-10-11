@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f495e9e6-9cd5-4b8c-9a52-2e04f9e49087" name="Changes" comment="" />
+    <list default="true" id="f495e9e6-9cd5-4b8c-9a52-2e04f9e49087" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/polinema/ac/id/dtsapp/WelcomeBackActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/polinema/ac/id/dtsapp/WelcomeBackActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2Fy05fPdwlnZd9mdKDjmBuxsYAG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,7 +33,7 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DTSApp Praktikum 2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
